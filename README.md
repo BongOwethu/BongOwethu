@@ -36,14 +36,14 @@
 
 ### 📊 Statistics 
 
-![Mandisa Nompumelelo Shange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=radical)
+![Mandisa Nompumelelo Shange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BongOwethu&show_icons=true&theme=radical)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=BongOwethu&theme=radical&border_radius=4.5) -->
 
-![GitHub Streak](https://streak-stats.demolab.com?userBongOwethu&count_private=true&theme=algolia&border_radius=20)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BongOwethu&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
+<!--  End Stats Cards --
+
 
 
 #
