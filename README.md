@@ -48,14 +48,13 @@ Hi there,👋 Welcome to my Github! I am an aspiring Systems /Cloud Engineer tha
 <details>
  <summary><h3>:woman_technologist: Mandisa's Coding Journey</h3></summary>
    I started my coding journey as a naive natural science student with a passion to learn everything I could about . I was then introduced to coding when we did computationa chemistry on Linux. This is where I began to have an interest in the programming world. I then registered for programming courses and the dropped out due to the work load and balancing school, work and home became a challenge.Then due to financail constriants I was not able to complete my final year,so i decided to work as a lab assisitant and the IT help Desk. Then the 2020 pandemic hit. I was now sitting at home and thinking what do I really want to do and which career am I willing to go into. i started researching all the IT related fields which seemed interesting at that time like Data Science, Data Analytic and so on.  2021, had a near death experience that made me realise that life is too short and you will die postponing your dreams. So I began where I left off .I then attened a few bootcamps and then software development interviewa and courses to build my coding confidence and skills so that I can see I wanted to start  - code, unix, linux, theory and all . Slowly but surely I am learning as I go. Challenges,set backs, come-ups and all. Don't wait up, because I'm coming.
-
-
 ---
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
+    
 <div class="footer" align="center" style="margin:15px;">
-    <a href="mshange2@gmail.com" target="_blank">
+    <a href="mailto:mshange2@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
 </div>
