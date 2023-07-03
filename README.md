@@ -2,7 +2,7 @@
 
 ## ***Life long Learner, Aspiring Systems & Cloud Engineer***
 
-![github_cover_banner]
+![github_cover_banner](https://github.com/BongOwethu/BongOwethu/blob/main/Screenshot%202023-07-03%20134639.png)
 
 I am an aspiring Systems /Cloud Engineer that is purpose driven, hardworking, open minded, passionate and ambitions individual that enjoys helping, leading and solving problems. I want to add value where ever I go. 
 
