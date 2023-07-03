@@ -1,7 +1,7 @@
 # :woman_technologist: Mandisa N Shange :lollipop:
 
 ***Life long Learner, Aspiring Systems & Cloud Engineer***
-
+![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
 Hi there,👋 Welcome to my Github! I am an aspiring Systems /Cloud Engineer that is purpose driven, hardworking, open minded, passionate and ambitions individual that enjoys helping, leading and solving problems. I want to add value where ever I go. 
 
 :smile:I am outgoing , fun and engaging person that loves work as a team to achieve a goal ,eventhough, we see things differently. I value constructive criticism and feedback. I love meeting new people and learning from them. I'm an enthusiastic person and excited by the opportunity to learn and develop new skills as I learn and grow.
@@ -22,8 +22,8 @@ Hi there,👋 Welcome to my Github! I am an aspiring Systems /Cloud Engineer tha
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-plain.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <br />
@@ -32,7 +32,7 @@ Hi there,👋 Welcome to my Github! I am an aspiring Systems /Cloud Engineer tha
 
 ### 📊 Stats
 
-![Mandisa N. Shange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledBadranDev&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Mandisa N. Shange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BongOwethu&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BongOwethu&count_private=true&theme=algolia&border_radius=20)
 
