@@ -1,10 +1,13 @@
 # :woman_technologist: Mandisa N Shange :lollipop:
 
-***Life long Learner ,Aspiring Systems & Cloud Engineer***
+***Life long Learner, Aspiring Systems & Cloud Engineer***
 
-Hi, there, :waving hand: Wlcome to my Github! I am an aspiring Cloud Engineer that is purpose driven, hardworking, open minded, passionate and ambitions individual that enjoys helping, leading and solving problems. I want to add value where ever I go. 
+Hi, there, :waving hand: Welcome to my Github! I am an aspiring Systems /Cloud Engineer that is purpose driven, hardworking, open minded, passionate and ambitions individual that enjoys helping, leading and solving problems. I want to add value where ever I go. 
+
 :smile:I am outgoing , fun and engaging person that loves work as a team to achieve a goal ,eventhough, we see things differently. I value constructive criticism and feedback. I love meeting new people and learning from them. I'm an enthusiastic person and excited by the opportunity to learn and develop new skills as I learn and grow.
+
 :computer: I am currently learning about Python, Linux, Networking, and Scripting fundamentals, Cloud Platforms and DevOps.
+
 :scroll: I am currently doing the Oracle certification challenge 
 
 ---
