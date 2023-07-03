@@ -1,1 +1,1 @@
-# :technologist: Mandisa N Shange
+# :woman_technologist: Mandisa N Shange
