@@ -1,7 +1,7 @@
 # :woman_technologist: Mandisa N Shange :lollipop:
 
 ***Life long Learner, Aspiring Systems & Cloud Engineer***
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
+![github_cover_banner](https://www.istockphoto.com/illustrations/black-woman-coding.gif)
 Hi there,👋 Welcome to my Github! I am an aspiring Systems /Cloud Engineer that is purpose driven, hardworking, open minded, passionate and ambitions individual that enjoys helping, leading and solving problems. I want to add value where ever I go. 
 
 :smile:I am outgoing , fun and engaging person that loves work as a team to achieve a goal ,eventhough, we see things differently. I value constructive criticism and feedback. I love meeting new people and learning from them. I'm an enthusiastic person and excited by the opportunity to learn and develop new skills as I learn and grow.
