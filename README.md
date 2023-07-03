@@ -1,10 +1,10 @@
-# Hi there,👋 Welcome to my Github! :woman_technologist:
+![github_cover_banner](https://github.com/BongOwethu/BongOwethu/blob/main/Screenshot%202023-07-03%20134639.png)
+
+# Hi there,👋 I'm Mandisa Nompumelelo Shange! :woman_technologist:
 
 ## ***Life long Learner, Aspiring Systems & Cloud Engineer***
 
-![github_cover_banner](https://github.com/BongOwethu/BongOwethu/blob/main/Screenshot%202023-07-03%20134639.png)
-
-I am an aspiring Systems /Cloud Engineer that is purpose driven, hardworking, open minded, passionate and ambitions individual that enjoys helping, leading and solving problems. I want to add value where ever I go. 
+💙 I am an aspiring Systems /Cloud Engineer that is purpose driven, hardworking, open minded, passionate and ambitions individual that enjoys helping, leading and solving problems. I want to add value where ever I go. 
 
 :smile:I am outgoing , fun and engaging person that loves work as a team to achieve a goal ,eventhough, we see things differently. I value constructive criticism and feedback. I love meeting new people and learning from them. I'm an enthusiastic person and excited by the opportunity to learn and develop new skills as I learn and grow.
 
@@ -35,17 +35,12 @@ I am an aspiring Systems /Cloud Engineer that is purpose driven, hardworking, op
 #
 
 ### 📊 Statistics 
-
 ![Mandisa Nompumelelo Shange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BongOwethu&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?userBongOwethu&count_private=true&theme=algolia&border_radius=20)
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BongOwethuv&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BongOwethu&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
-<!--  End Stats Cards -->
 #
 <details>
  <summary><h3>:woman_technologist: Mandisa's Coding Journey</h3></summary>
