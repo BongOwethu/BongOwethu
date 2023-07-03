@@ -1,10 +1,10 @@
 ![github_cover_banner](https://github.com/BongOwethu/BongOwethu/blob/main/Screenshot%202023-07-03%20134639.png)
 
-# Hi there,👋 I'm Mandisa Nompumelelo Shange! :woman_technologist:
+# Hi there,👋 Welcome to my Github! :woman_technologist:
 
-## ***Life long Learner, Aspiring Systems & Cloud Engineer***
+## ***I'm a Life long Learner, Aspiring Systems & Cloud Engineer***
 
-💙 I am an aspiring Systems /Cloud Engineer that is purpose driven, hardworking, open minded, passionate and ambitions individual that enjoys helping, leading and solving problems. I want to add value where ever I go. 
+💙 I'm an aspiring Systems /Cloud Engineer that is purpose driven, hardworking, open minded, passionate and ambitions individual that enjoys helping, leading and solving problems. I want to add value where ever I go. 
 
 :smile:I am outgoing , fun and engaging person that loves work as a team to achieve a goal ,eventhough, we see things differently. I value constructive criticism and feedback. I love meeting new people and learning from them. I'm an enthusiastic person and excited by the opportunity to learn and develop new skills as I learn and grow.
 
