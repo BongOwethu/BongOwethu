@@ -40,12 +40,8 @@ I am an aspiring Systems /Cloud Engineer that is purpose driven, hardworking, op
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BongOwethu&count_private=true&theme=algolia&border_radius=20)
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BongOwethu&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BongOwethu&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
-
 #
 <details>
  <summary><h3>:woman_technologist: Mandisa's Coding Journey</h3></summary>
