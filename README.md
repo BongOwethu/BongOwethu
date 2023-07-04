@@ -10,7 +10,7 @@
 
 :computer: I am currently learning about Python, Linux, Networking, and Scripting fundamentals, Cloud Platforms and DevOps.
 
-:scroll: I am currently doing the Oracle certification Challenge and ALX Software Development Certificate
+:scroll: I am currently doing the Oracle certification Challenge and ALX Software Development Certificate.
 
 ---
 ### :toolbox: Languages and Tools 
