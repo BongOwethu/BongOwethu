@@ -1,6 +1,9 @@
-![github_cover_banner](https://github.com/BongOwethu/BongOwethu/blob/main/Screenshot%202023-07-03%20134639.png)
+<h1 align="center">Greetings👋, I'm Mandisa Shange:woman_technologist:</h1>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1100&color=7FC6FB&width=435&lines=A+diligent+cloud+and+systems+engineer+in+South Africa.;Working+tirelessly+to+create+something++meaningful✨." alt="Typing SVG" /></a>
+</h3>
 
-# Hi there,👋 Welcome to my Github! :woman_technologist:
+![github_cover_banner](https://github.com/BongOwethu/BongOwethu/blob/main/Screenshot%202023-07-03%20134639.png)
 
 ## ***I'm a Life long Learner, Aspiring Systems & Cloud Engineer***
 
@@ -8,12 +11,14 @@
 
 :smile:I am outgoing , fun and engaging person that loves work as a team to achieve a goal ,eventhough, we see things differently. I value constructive criticism and feedback. I love meeting new people and learning from them. I'm an enthusiastic person and excited by the opportunity to learn and develop new skills as I learn and grow.
 
-:computer: I am currently learning about Python, Linux, Networking, and Scripting fundamentals, Cloud Platforms and DevOps.
+## <img src="https://img.icons8.com/nolan/25/computer.png"/> **My Certifications 🏅**
+I am currently learning about Python, Linux, Networking, and Scripting fundamentals, Cloud Platforms and DevOps.
+I am currently doing the Oracle certification Challenge and enrolled in ALX Software Development Certificate.
 
-:scroll: I am currently doing the Oracle certification Challenge and ALX Software Development Certificate.
+Check out some of my projects here on GitHub; they cover different topics I studied. 📚
 
 ---
-### :toolbox: Languages and Tools 
+## <img src="https://img.icons8.com/nolan/25/computer.png"/> Languages and Tools 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -34,12 +39,23 @@
 
 #
 
-### 📊 Statistics 
+## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandisa-nompumelelo-shange-607499227/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mshange2@gmail.com)
+<div align="center">
+
+ ## <img src="https://img.icons8.com/nolan/26/github.png"/> My GitHub Stats
 ![Mandisa Nompumelelo Shange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BongOwethu&show_icons=true&theme=radical)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=BongOwethu&theme=radical&border_radius=4.5) -->
-
+<p align="center">
+<a href="https://github.com/">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BongOwethu&&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BongOwethu&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=BongOwethu&_border=true&theme=dark&hide_border=true&theme=radical" style="width: 95%" />
+ </a>
+</p>
+</div>
 #
 <details>
  <summary><h3>:woman_technologist: Mandisa's Coding Journey</h3></summary>
