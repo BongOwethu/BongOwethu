@@ -13,7 +13,7 @@
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> **My Certifications 🏅**
 I am currently learning about Python, Linux, Networking, and Scripting fundamentals, Cloud Platforms and DevOps.
-I am currently doing the Oracle certification Challenge and enrolled in ALX Software Development Certificate.
+I am currently doing certifications in AWS and enrolled in ALX Software Development Certificate.
 
 Check out some of my projects here on GitHub; they cover different topics I studied. 📚
 
@@ -28,7 +28,6 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 <br />
 
 #
