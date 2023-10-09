@@ -12,7 +12,7 @@
 :smile:I am outgoing , fun and engaging person that loves work as a team to achieve a goal ,eventhough, we see things differently. I value constructive criticism and feedback. I love meeting new people and learning from them. I'm an enthusiastic person and excited by the opportunity to learn and develop new skills as I learn and grow.
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> **My Certifications 🏅**
-I am currently learning about ,Javascript, HTML and CSS, Node.js,Python, Linux, Networking, and Scripting fundamentals, Cloud Platforms and DevOps.
+I am currently learning Javascript, HTML, HTML5 and CSS, Node.js,Python, Linux, Networking and Scripting fundamentals, Cloud Platforms and DevOps.
 I am currently doing certifications in AWS and enrolled in ALX Software Development Certificate.
 
 Check out some of my projects here on GitHub; they cover different topics I studied. 📚
