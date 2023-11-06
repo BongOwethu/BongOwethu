@@ -13,7 +13,7 @@
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> **My Certifications 🏅**
 I am currently learning Javascript, HTML, HTML5 and CSS, Node.js,Python, Linux, Networking and Scripting fundamentals, Cloud Platforms and DevOps.
-I am currently doing certifications in AWS and enrolled in ALX Software Development Certificate.
+I am currently doing certifications in AWS.
 
 Check out some of my projects here on GitHub; they cover different topics I studied. 📚
 
