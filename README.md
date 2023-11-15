@@ -41,8 +41,6 @@ Check out some of my projects here on GitHub; they cover different topics I stud
 <div align="center">
 
  ## <img src="https://img.icons8.com/nolan/26/github.png"/> My GitHub Stats
-![Mandisa Nompumelelo Shange's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BongOwethu&show_icons=true&theme=radical)
-
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=BongOwethu&theme=radical&border_radius=4.5) -->
 <p align="center">
 <a href="https://github.com/">
