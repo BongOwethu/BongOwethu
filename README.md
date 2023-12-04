@@ -1,4 +1,4 @@
-<h1 align="center">Greetings👋, I'm Mandisa Shange:woman_technologist:</h1>
+<h1 align="center">Greetings👋, I'm Mandisa Shange :woman_technologist:</h1>
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1100&color=7FC6FB&width=435&lines=A+diligent+web+and+systems+engineer+in+South Africa.;Working+tirelessly+to+create+something++meaningful✨." alt="Typing SVG" /></a>
 </h3>
